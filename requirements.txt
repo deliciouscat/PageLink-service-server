@@ -1,0 +1,6 @@
+fastapi==0.109
+uvicorn[standard]==0.27
+clerk-backend-api==1.0
+python-dotenv==1.0
+pydantic==2.8.2
+pydantic-settings==2.1
